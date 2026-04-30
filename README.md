@@ -1,4 +1,4 @@
-# ProxyTG_Free
+# Proxy TG
 Прокси от HadackDev:
 
 https://t.me/proxy?server=2.27.4.58&port=443&secret=ee9d343635a76a38133c6d01e1c81f50cf706574726f766963682e7275
